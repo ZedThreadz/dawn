@@ -53,21 +53,12 @@
           "settings": {
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materials",
-            "icon": "leather",
-            "content": "",
-            "page": ""
-          }
-        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
+            "content": "<p>All onesies are custom made to the measurements that you provid and no refunds or exchanges will be offered for incorrect measurements.<\/p>",
             "page": ""
           }
         },
@@ -76,7 +67,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<p>All onesies are machine washable but not dryer safe.<\/p>",
             "page": ""
           }
         },
@@ -96,7 +87,6 @@
         "variant_picker",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-3",
         "share"
