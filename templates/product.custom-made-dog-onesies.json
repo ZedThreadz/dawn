@@ -27,6 +27,15 @@
           "settings": {
           }
         },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Measuring Instructions",
+            "icon": "ruler",
+            "content": "",
+            "page": "dog-onesie-measuring-instructions"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -62,15 +71,6 @@
             "page": ""
           }
         },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
@@ -92,12 +92,12 @@
         "title",
         "caption",
         "price",
+        "collapsible-row-2",
         "variant_picker",
         "buy_buttons",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
         "collapsible-row-3",
         "share"
       ],
@@ -105,7 +105,7 @@
         "enable_sticky_info": true,
         "media_position": "left",
         "gallery_layout": "thumbnail_slider",
-        "media_size": "medium",
+        "media_size": "small",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
