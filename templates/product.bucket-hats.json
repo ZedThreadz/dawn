@@ -22,6 +22,20 @@
             "text_style": "subtitle"
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size Chart",
+            "icon": "ruler",
+            "content": "",
+            "page": "bucket-hat-size-chart"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -31,11 +45,6 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
-        },
-        "price": {
-          "type": "price",
           "settings": {
           }
         },
@@ -59,15 +68,6 @@
             "page": ""
           }
         },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Size Chart",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
@@ -88,13 +88,13 @@
         "vendor",
         "title",
         "caption",
+        "price",
+        "collapsible-row-2",
         "variant_picker",
         "quantity_selector",
-        "price",
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "collapsible-row-2",
         "collapsible-row-3",
         "share"
       ],
