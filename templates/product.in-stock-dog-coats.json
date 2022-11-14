@@ -59,6 +59,15 @@
           "settings": {
           }
         },
+        "e180a0a4-7f0e-469f-9d54-35dc0b6ac5d4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Info",
+            "icon": "question_mark",
+            "content": "<p>Chest plate style dog coats are much warmer than my everyday style coat and feature a warm turtle neck and an adjustable belly strap. The belly strap comes down the front of the chest, between the front 2 legs and clips up on the back.<br\/><br\/>The back length of the coat is affected by how it sits at the neck. If your dog measures on the lower end of the neck size, I recommend choosing a coat with a shorter back length.<\/p><p>Please ensure you consult the size chart in the second picture as some dogs may not fit my stock sizing.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
@@ -103,6 +112,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "e180a0a4-7f0e-469f-9d54-35dc0b6ac5d4",
         "collapsible-row-1",
         "collapsible-row-0",
         "collapsible-row-3",
