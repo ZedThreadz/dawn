@@ -58,7 +58,16 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "<p>All dog coats con be machine washed but they are not dryer safe.<\/p>",
+            "content": "<p>All our dog coats are machine washable, to extend the life of your coat, we recommend line drying your coat.<\/p>",
+            "page": ""
+          }
+        },
+        "6a526ad0-d88f-474f-bf5d-b041f0c464ce": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Turnaround Time",
+            "icon": "none",
+            "content": "<p>All our custom made dog coats are made to the measurements you provide. Therefore, they will take between 1 and 2 weeks to be made.<\/p>",
             "page": ""
           }
         },
@@ -79,6 +88,7 @@
         "buy_buttons",
         "description",
         "collapsible-row-3",
+        "6a526ad0-d88f-474f-bf5d-b041f0c464ce",
         "share"
       ],
       "settings": {
