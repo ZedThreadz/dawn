@@ -25,7 +25,7 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "<h1>Size Chart<\/h1>",
+            "heading": "<b>Size Chart<\/b>",
             "icon": "ruler",
             "content": "",
             "page": "stock-dog-coat-size-chart"
