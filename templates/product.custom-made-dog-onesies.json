@@ -89,6 +89,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "d41348af-4a02-4a20-b649-b38a8d51ecf2": {
+          "type": "text",
+          "settings": {
+            "text": "Total Onesie Price",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -104,7 +111,8 @@
         "description",
         "collapsible-row-1",
         "collapsible-row-3",
-        "share"
+        "share",
+        "d41348af-4a02-4a20-b649-b38a8d51ecf2"
       ],
       "settings": {
         "enable_sticky_info": true,
