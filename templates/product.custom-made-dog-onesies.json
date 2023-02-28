@@ -42,6 +42,19 @@
             "picker_type": "dropdown"
           }
         },
+        "e5d86431-8204-4cdc-811c-3535a981973f": {
+          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {
+          }
+        },
+        "1753c055-f879-4fba-a3c2-857e4f3cd3ce": {
+          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block-price\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {
+            "color": "#000000",
+            "font": "Assistant, sans-serif",
+            "font_size": "18px"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -85,6 +98,8 @@
         "price",
         "collapsible-row-2",
         "variant_picker",
+        "e5d86431-8204-4cdc-811c-3535a981973f",
+        "1753c055-f879-4fba-a3c2-857e4f3cd3ce",
         "buy_buttons",
         "description",
         "collapsible-row-1",
