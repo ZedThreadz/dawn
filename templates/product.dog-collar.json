@@ -53,9 +53,9 @@
         "4fec84fe-f8ae-40fb-b9cc-76884c9a5c41": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Washing Instructions",
             "icon": "washing",
-            "content": "",
+            "content": "<p>We recommend hand washing your collars in warm water.<\/p>",
             "page": ""
           }
         },
