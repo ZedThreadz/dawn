@@ -2,6 +2,7 @@
   "sections": {
     "8c436ebe-7ffe-4848-ab59-30bcb8928403": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "template--15896121049282__8c436ebe-7ffe-4848-ab59-30bcb8928403-16807351888165a75a-0": {
           "type": "featured_collection",
