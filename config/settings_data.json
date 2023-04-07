@@ -158,6 +158,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "footer-2": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": ""
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -172,19 +179,20 @@
               "menu": "footer"
             }
           },
-          "footer-2": {
-            "type": "text",
-            "disabled": true,
+          "a51e9467-ee4d-4c79-b7f0-88077ae6bdc9": {
+            "type": "image",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "image": "{{ shop.brand.logo }}",
+              "image_width": 50,
+              "alignment": ""
             }
           }
         },
         "block_order": [
+          "footer-2",
           "footer-0",
           "footer-1",
-          "footer-2"
+          "a51e9467-ee4d-4c79-b7f0-88077ae6bdc9"
         ],
         "settings": {
           "color_scheme": "background-1",
