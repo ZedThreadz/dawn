@@ -22,8 +22,18 @@
             "text_style": "subtitle"
           }
         },
+        "d30bea8a-5eb5-40f1-b99d-b29adc707c99": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size Chart",
+            "icon": "ruler",
+            "content": "",
+            "page": ""
+          }
+        },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -90,6 +100,7 @@
         "vendor",
         "title",
         "caption",
+        "d30bea8a-5eb5-40f1-b99d-b29adc707c99",
         "price",
         "variant_picker",
         "f5579bd1-bc99-4503-a9c3-f57974b3ada5",
