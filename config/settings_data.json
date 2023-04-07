@@ -161,8 +161,8 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "About Us",
+              "menu": "about-us"
             }
           },
           "footer-1": {
