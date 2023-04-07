@@ -22,19 +22,19 @@
             "text_style": "subtitle"
           }
         },
-        "d30bea8a-5eb5-40f1-b99d-b29adc707c99": {
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "9892b7b4-6100-4e27-b299-843743bbd04a": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Size Chart",
             "icon": "ruler",
             "content": "",
             "page": "dog-collar-size-chart"
-          }
-        },
-        "price": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
           }
         },
         "variant_picker": {
@@ -100,8 +100,8 @@
         "vendor",
         "title",
         "caption",
-        "d30bea8a-5eb5-40f1-b99d-b29adc707c99",
         "price",
+        "9892b7b4-6100-4e27-b299-843743bbd04a",
         "variant_picker",
         "f5579bd1-bc99-4503-a9c3-f57974b3ada5",
         "b8c49ac5-344b-4202-8ff8-adc78a07d6a1",
