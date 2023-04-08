@@ -158,23 +158,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "a51e9467-ee4d-4c79-b7f0-88077ae6bdc9": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/ZedPetApparel-Circle-Logo_Colour_600ppi.png",
-              "image_width": 145,
-              "alignment": ""
-            }
-          },
-          "footer-2": {
-            "type": "text",
-            "disabled": true,
-            "settings": {
-              "heading": "",
-              "subtext": ""
-            }
-          },
           "footer-0": {
             "type": "link_list",
             "disabled": true,
@@ -185,32 +168,17 @@
           },
           "footer-1": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Support",
               "menu": "footer"
             }
           },
-          "dad48191-b447-489a-9784-5d67d1703823": {
-            "type": "text",
-            "disabled": true,
-            "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
-          },
-          "f891ceb8-e4ad-4fc9-8301-20eb6d86572e": {
-            "type": "text",
-            "disabled": true,
-            "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
-          },
           "ed29078f-3eca-4128-8c4e-4666eadbbfab": {
             "type": "text",
             "settings": {
-              "heading": "About Us",
-              "subtext": "<p><a href=\"\/pages\/about-us\" title=\"About Us\">Our Story<\/a><\/p><p><\/p>"
+              "heading": "Quick Links",
+              "subtext": "<p><a href=\"\/pages\/about-us\" title=\"About Us\">Our Story<\/a><\/p><p><a href=\"\/collections\/zed-pet-apparel\" title=\"Zed Pet Apparel\">Zed Pet Apparel<\/a><\/p><p><a href=\"\/collections\/zed-threadz\" title=\"Zed Threadz\">Zed Threadz<\/a><\/p><p><a href=\"\/pages\/fabric-types-zed-pet-apparel\" title=\"Fabric Types - Zed Pet Apparel\">Fabric Types - Zed Pet Apparel<\/a><\/p>"
             }
           },
           "27b27452-9690-4b3b-8d00-5bb7b294ff5a": {
@@ -222,12 +190,8 @@
           }
         },
         "block_order": [
-          "a51e9467-ee4d-4c79-b7f0-88077ae6bdc9",
-          "footer-2",
           "footer-0",
           "footer-1",
-          "dad48191-b447-489a-9784-5d67d1703823",
-          "f891ceb8-e4ad-4fc9-8301-20eb6d86572e",
           "ed29078f-3eca-4128-8c4e-4666eadbbfab",
           "27b27452-9690-4b3b-8d00-5bb7b294ff5a"
         ],
