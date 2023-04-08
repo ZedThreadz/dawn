@@ -51,7 +51,7 @@
         "5661ed4b-403c-4d94-bec9-e6729d624db6": {
           "type": "text",
           "settings": {
-            "text": "Custom Coat Total:",
+            "text": "<b> Custom Coat Total:<\/b>",
             "text_style": "body"
           }
         },
