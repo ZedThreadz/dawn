@@ -26,7 +26,7 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Measuring Instructions",
+            "heading": "<b> Measuring Instructions<\/b>",
             "icon": "ruler",
             "content": "",
             "page": "dog-coat-measuring-guide"
