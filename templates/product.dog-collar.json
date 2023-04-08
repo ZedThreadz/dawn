@@ -31,7 +31,7 @@
         "9892b7b4-6100-4e27-b299-843743bbd04a": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Size Chart",
+            "heading": "<b>Size Chart<\/b>",
             "icon": "ruler",
             "content": "",
             "page": "dog-collar-size-chart"
