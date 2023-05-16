@@ -25,10 +25,10 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "<b>Size Chart<\/b>",
+            "heading": "Size Chart",
             "icon": "ruler",
             "content": "",
-            "page": "stock-dog-coat-size-chart"
+            "page": "dog-overcoat-size-chart"
           }
         },
         "price": {
