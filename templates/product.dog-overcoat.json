@@ -25,7 +25,7 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Size Chart",
+            "heading": "<b>Size Chart<\/b>",
             "icon": "ruler",
             "content": "",
             "page": "dog-overcoat-size-chart"
