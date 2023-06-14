@@ -27,6 +27,15 @@
           "settings": {
           }
         },
+        "f333d3e2-1711-4671-bf01-fed28a3f9520": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size Chart",
+            "icon": "ruler",
+            "content": "",
+            "page": "ready-made-dog-onesie-size-chart"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -61,6 +70,7 @@
         "title",
         "caption",
         "price",
+        "f333d3e2-1711-4671-bf01-fed28a3f9520",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
