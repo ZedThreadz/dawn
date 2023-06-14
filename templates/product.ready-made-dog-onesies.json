@@ -54,6 +54,11 @@
           "settings": {
           }
         },
+        "2d073637-da63-4cec-9bba-3d9ca6bb2cdd": {
+          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -99,6 +104,7 @@
         "variant_picker",
         "50aa713a-2fbe-4fa3-ac87-648bf76d6474",
         "quantity_selector",
+        "2d073637-da63-4cec-9bba-3d9ca6bb2cdd",
         "buy_buttons",
         "description",
         "share",
