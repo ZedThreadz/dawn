@@ -44,6 +44,7 @@
         },
         "50aa713a-2fbe-4fa3-ac87-648bf76d6474": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"line-item-property__field Personaliation_field\">\n              <label for=\"personalisation\">Dog Breed<\/label><br>\n              <textarea rows=\"1\" id=\"personalization\" name=\"properties[Personalization]\"><\/textarea> <\/div>"
           }
@@ -69,6 +70,24 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "88891d7d-c7c7-4936-b7f7-cf7b8a2d0a71": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "icon": "truck",
+            "content": "<p>We use Australia Post for all our deliveries. These dog onesies are ready to ship and will be shipped within 5 business days from your order date, unless your order contains a mix of ready made and custom made items. Express post and regular post options are available at checkout for both Australian and International orders.<\/p>",
+            "page": ""
+          }
+        },
+        "1b6dddf8-719e-4431-8aea-d447b2209734": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "iron",
+            "content": "<p>Our dog onesies are machine washable but we do not recommend putting them in the dryer.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -82,7 +101,9 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "88891d7d-c7c7-4936-b7f7-cf7b8a2d0a71",
+        "1b6dddf8-719e-4431-8aea-d447b2209734"
       ],
       "settings": {
         "enable_sticky_info": true,
