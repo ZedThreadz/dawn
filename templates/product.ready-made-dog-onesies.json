@@ -42,6 +42,12 @@
             "picker_type": "button"
           }
         },
+        "50aa713a-2fbe-4fa3-ac87-648bf76d6474": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"line-item-property__field Personaliation_field\">\n              <label for=\"personalisation\">Dog Breed<\/label><br>\n              <textarea rows=\"1\" id=\"personalization\" name=\"properties[Personalization]\"><\/textarea> <\/div>"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -72,6 +78,7 @@
         "price",
         "f333d3e2-1711-4671-bf01-fed28a3f9520",
         "variant_picker",
+        "50aa713a-2fbe-4fa3-ac87-648bf76d6474",
         "quantity_selector",
         "buy_buttons",
         "description",
