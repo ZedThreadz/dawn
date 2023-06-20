@@ -72,6 +72,15 @@
             "content": "<p>We use Australia Post for all our deliveries. These dog coats are ready to ship and will be shipped within 5 business days from your order date, unless your order contains a mix of ready made and custom made items. Express post and regular post options are available at checkout for both Australian and International orders.<\/p>",
             "page": ""
           }
+        },
+        "08ba1bac-e94e-4b73-be2d-e1a68fa3950a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "iron",
+            "content": "<p>All dog coatsies are machine washable but not dryer safe.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -85,7 +94,8 @@
         "buy_buttons",
         "description",
         "share",
-        "ded82b4e-8455-4ed0-8b5d-033b5f88f412"
+        "ded82b4e-8455-4ed0-8b5d-033b5f88f412",
+        "08ba1bac-e94e-4b73-be2d-e1a68fa3950a"
       ],
       "settings": {
         "enable_sticky_info": true,
