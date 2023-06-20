@@ -95,7 +95,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Care Instructions",
-            "icon": "heart",
+            "icon": "iron",
             "content": "<p>All dog coats are machine washable but not dryer safe. Raincoats are cold machine wash only.<\/p>",
             "page": ""
           }
