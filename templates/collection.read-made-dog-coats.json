@@ -6,13 +6,20 @@
         "template--16026349732034__d796315a-9c1d-4622-987d-2b4f2adf47a5-16879055203b97cb95-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Custom Made Dog Coats<\/p>",
+            "heading": "<p>Ready Made Australian Made Dog Coats<\/p>",
             "heading_size": "h1"
+          }
+        },
+        "8d0a7b6d-11a1-4a12-b562-a8b6c1388d28": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All the dog coats on this page are in stock and ready to post. There are heaps of different patterns in each size.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--16026349732034__d796315a-9c1d-4622-987d-2b4f2adf47a5-16879055203b97cb95-0"
+        "template--16026349732034__d796315a-9c1d-4622-987d-2b4f2adf47a5-16879055203b97cb95-0",
+        "8d0a7b6d-11a1-4a12-b562-a8b6c1388d28"
       ],
       "settings": {
         "desktop_content_position": "center",
