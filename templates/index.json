@@ -131,11 +131,55 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a5ce5309-bca8-4b5f-879c-208cc3c8e2b3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15896121213122__a5ce5309-bca8-4b5f-879c-208cc3c8e2b3-16879055203b97cb95-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Australian Made Dog Coats and Onesies<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15896121213122__a5ce5309-bca8-4b5f-879c-208cc3c8e2b3-16879055203b97cb95-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We Specialise is Dog Coats and Onesies for Great Danes, Mastiffs and other giant breed dogs.<\/p>"
+          }
+        },
+        "template--15896121213122__a5ce5309-bca8-4b5f-879c-208cc3c8e2b3-16879055203b97cb95-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15896121213122__a5ce5309-bca8-4b5f-879c-208cc3c8e2b3-16879055203b97cb95-0",
+        "template--15896121213122__a5ce5309-bca8-4b5f-879c-208cc3c8e2b3-16879055203b97cb95-1",
+        "template--15896121213122__a5ce5309-bca8-4b5f-879c-208cc3c8e2b3-16879055203b97cb95-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "9989363d-b384-4b2a-bb99-15e54654ec22",
     "4b294cad-39e8-462a-b108-559d85f99a4f",
-    "a27400c9-db32-4525-98ba-cf409bd3878d"
+    "a27400c9-db32-4525-98ba-cf409bd3878d",
+    "a5ce5309-bca8-4b5f-879c-208cc3c8e2b3"
   ]
 }
