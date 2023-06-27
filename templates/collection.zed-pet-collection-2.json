@@ -1,5 +1,28 @@
 {
   "sections": {
+    "e75f8624-325f-453a-8c9a-377db4633049": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16026349633730__e75f8624-325f-453a-8c9a-377db4633049-16879055203b97cb95-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Australian Made Dog Coats<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16026349633730__e75f8624-325f-453a-8c9a-377db4633049-16879055203b97cb95-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "8c436ebe-7ffe-4848-ab59-30bcb8928403": {
       "type": "collection-list",
       "blocks": {
@@ -70,6 +93,7 @@
     }
   },
   "order": [
+    "e75f8624-325f-453a-8c9a-377db4633049",
     "8c436ebe-7ffe-4848-ab59-30bcb8928403",
     "banner",
     "product-grid"
