@@ -108,12 +108,36 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "f003de89-8221-4467-9e30-b7f2178fed05": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15896121049282__f003de89-8221-4467-9e30-b7f2178fed05-16879055203b97cb95-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Custom Made to Measurements Dog Onesies<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--15896121049282__f003de89-8221-4467-9e30-b7f2178fed05-16879055203b97cb95-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "8c436ebe-7ffe-4848-ab59-30bcb8928403",
     "banner",
     "product-grid",
-    "0933090c-b4d3-4759-aa90-d3a02e2d7007"
+    "0933090c-b4d3-4759-aa90-d3a02e2d7007",
+    "f003de89-8221-4467-9e30-b7f2178fed05"
   ]
 }
