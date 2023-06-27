@@ -5,6 +5,7 @@
       "blocks": {
         "template--15896121049282__f003de89-8221-4467-9e30-b7f2178fed05-16879055203b97cb95-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>Custom Made to Measurements Dog Onesies<\/p>",
             "heading_size": "h1"
@@ -66,7 +67,6 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
