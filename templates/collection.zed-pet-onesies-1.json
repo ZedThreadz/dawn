@@ -1,5 +1,28 @@
 {
   "sections": {
+    "c8b84b76-663e-4a9a-b216-b1e1371c19f2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16070728286402__c8b84b76-663e-4a9a-b216-b1e1371c19f2-16879055203b97cb95-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Australian Made Dog Onesies and Jammies<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16070728286402__c8b84b76-663e-4a9a-b216-b1e1371c19f2-16879055203b97cb95-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "8c436ebe-7ffe-4848-ab59-30bcb8928403": {
       "type": "collection-list",
       "disabled": true,
@@ -111,6 +134,7 @@
     }
   },
   "order": [
+    "c8b84b76-663e-4a9a-b216-b1e1371c19f2",
     "8c436ebe-7ffe-4848-ab59-30bcb8928403",
     "banner",
     "product-grid",
