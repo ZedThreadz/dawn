@@ -109,7 +109,7 @@
     "social_facebook_link": "https:\/\/www.facebook.com\/zedpetapparel",
     "social_pinterest_link": "",
     "social_instagram_link": "https:\/\/www.instagram.com\/zed_pet_apparel\/?hl=en",
-    "social_tiktok_link": "",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@zedpetapparel?fbclid=IwAR0UUwMQm2SU4rVl_b8LJwBHq-jK2m2-TY_zlaELU7ijFbAnKdlut99CStc",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
     "social_youtube_link": "",
@@ -142,6 +142,9 @@
       },
       "header": {
         "type": "header",
+        "custom_css": [
+
+        ],
         "settings": {
           "color_scheme": "background-1",
           "logo_width": 90,
