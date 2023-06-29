@@ -94,6 +94,21 @@
             "content": "<p>Our dog onesies are machine washable but we do not recommend putting them in the dryer.<\/p>",
             "page": ""
           }
+        },
+        "2a6958af-00cd-4d98-a789-a4e11eaaed58": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "#000000",
+            "star_size": 15,
+            "text_align": "center",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
+          }
+        },
+        "a86ed49b-55c9-4434-b8e9-855703ab1140": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -110,7 +125,9 @@
         "description",
         "share",
         "88891d7d-c7c7-4936-b7f7-cf7b8a2d0a71",
-        "1b6dddf8-719e-4431-8aea-d447b2209734"
+        "1b6dddf8-719e-4431-8aea-d447b2209734",
+        "2a6958af-00cd-4d98-a789-a4e11eaaed58",
+        "a86ed49b-55c9-4434-b8e9-855703ab1140"
       ],
       "settings": {
         "enable_sticky_info": true,
