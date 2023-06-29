@@ -108,7 +108,6 @@
         },
         "370fb8d3-f68d-4841-bc8f-0f7f237249a4": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
-          "disabled": true,
           "settings": {
             "stars_fill_color": "#000000",
             "star_size": 15,
