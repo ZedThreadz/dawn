@@ -87,6 +87,11 @@
             "content": "<p>All dog coatsies are machine washable but not dryer safe.<\/p>",
             "page": ""
           }
+        },
+        "f066176c-1048-495b-8972-27a0a343b555": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -102,7 +107,8 @@
         "description",
         "share",
         "ded82b4e-8455-4ed0-8b5d-033b5f88f412",
-        "08ba1bac-e94e-4b73-be2d-e1a68fa3950a"
+        "08ba1bac-e94e-4b73-be2d-e1a68fa3950a",
+        "f066176c-1048-495b-8972-27a0a343b555"
       ],
       "settings": {
         "enable_sticky_info": true,
