@@ -93,6 +93,16 @@
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
           "settings": {
           }
+        },
+        "8f1907df-ac6a-47fb-9cdf-2ef461b84eec": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "#000000",
+            "star_size": 15,
+            "text_align": "center",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
+          }
         }
       },
       "block_order": [
@@ -109,7 +119,8 @@
         "collapsible-row-1",
         "collapsible-row-3",
         "share",
-        "ae76bf6e-0d5c-42e2-b5fe-ab14f805c84d"
+        "ae76bf6e-0d5c-42e2-b5fe-ab14f805c84d",
+        "8f1907df-ac6a-47fb-9cdf-2ef461b84eec"
       ],
       "settings": {
         "enable_sticky_info": true,
